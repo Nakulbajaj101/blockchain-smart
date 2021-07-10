@@ -6,3 +6,9 @@ using web3.js
 
 The interation with smart contracts was built using TDD 
 and end to end tests were written
+
+
+# Author 
+
+Nakul Bajaj    
+bajaj.nakul@gmail.com     
